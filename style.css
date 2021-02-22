@@ -72,6 +72,7 @@ input[type=text], select, textarea {
             float: right;
             text-align: center;
             padding-right: 5px;
+            padding-bottom: 5px;
         }
 
         li a {
